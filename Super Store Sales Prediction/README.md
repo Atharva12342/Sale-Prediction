@@ -86,7 +86,12 @@ This system can support:
 
 * Sales forecasting
 * Inventory planning
-* Revenue estimation
-* Outlet performance analysis
-* Retail decision-making
+
+## Author
+
+Atharva Galande
+
+📄 License
+
+This project is created for educational and learning purposes.
 
