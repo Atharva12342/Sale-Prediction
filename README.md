@@ -101,6 +101,7 @@ Open `sale_prediction.ipynb` and execute the cells step by step.
 * Improve prediction accuracy through feature engineering.
 
 ## 👨‍💻 Author
+    
 
 **Your Name**
 
